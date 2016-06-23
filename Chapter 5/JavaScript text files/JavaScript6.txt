@@ -1,0 +1,1 @@
+var newWin=window.open("certificate.html", "certificate", "status=0,scrollbars=0,width=600,height=480");

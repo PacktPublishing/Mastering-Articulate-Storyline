@@ -1,0 +1,7 @@
+var player = GetPlayer();//find the Flash Player
+var Menu = player.GetVar("Menu")//get the current value or our sl variable 
+if (Menu == "out") {//if the menu is out
+  player.SetVar("Menu", "in")//tell the flash player to set the variable to 'in'
+} else {
+  player.SetVar("Menu", "out")//tell the flash player to set the variable to 'out
+}

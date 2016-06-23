@@ -1,0 +1,6 @@
+var player = GetPlayer();
+var content = player.GetVar("Wordcount");
+var matches = content.match(/\S+\s*/g);
+var numWords = matches !== null ? matches.length : 0;
+
+player.SetVar("Counted",numWords);

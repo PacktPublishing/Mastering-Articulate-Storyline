@@ -1,0 +1,8 @@
+myWindow=window.open("http://ashleychiasson.com/blog/about/","","width=550,height=400,toolbar=0,menubar=0,location=0,status=1,scrollbars=1,resizable=1,left=0,top=0");
+                
+                var myVar = setTimeout(function(){closeWin()},4000);
+                
+                function closeWin()        {
+                                myWindow.close();
+                                clearTimeout(myVar);
+                };  
