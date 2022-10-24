@@ -10,3 +10,7 @@ Related Books
 *[Articulate Storyline Essentials](https://www.packtpub.com/hardware-and-creative/articulate-storyline-essentials?utm_source=GitHub&utm_medium=Repo&utm_campaign=9781784392079)
 
 *[Learning Articulate Storyline](https://www.packtpub.com/hardware-and-creative/learning-articulate-storyline?utm_source=GitHub&utm_medium=Repo&utm_campaign=9781849694223)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781783550913">https://packt.link/free-ebook/9781783550913 </a> </p>
